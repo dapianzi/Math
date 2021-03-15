@@ -104,11 +104,3 @@ Implementation of some common mathematical formulas
 1. [乘幂法]]()
 2. [反幂法]()
 3. [原点平移反幂法]()
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
