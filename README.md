@@ -104,3 +104,12 @@ Implementation of some common mathematical formulas
 1. [乘幂法]]()
 2. [反幂法]()
 3. [原点平移反幂法]()
+
+
+```mermaid
+graph TD;
+A[LOCAL-00] --> B[REMOTE-01];
+B --> C[LOCAL-01];
+D[REMOTE-02] --> E[LOCAL-02];
+C --> E;
+```
